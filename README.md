@@ -5,19 +5,25 @@ Program warsztatu
 Część pierwsza: 9.00 - 10.30
 
 1. Przywitanie uczestników, cel i plan warsztatu
+
 2. Przygotowanie danych do analizy
+
 a) ładowanie danych - jak to jest w przypadku danych sondażowych?
 - przykład z CSV; w dalszej części - ładowanie pliku SPSS (foreign)
+
 b) czyszczenie danych
 - co to są czyste dane w przypadku danych sondażowych?
 - nie tyle (tidyr), co ... - ćwiczenia z czyszczenia danych
 - braki danych w pigułce
 - operacje na danych: zmienianie wartości zmiennych, tworzenie nowych zmiennych, podzbiorów itd.
+
 3) Szybkie analizy w R 
+
 c)szybka droga do wyników - tabele
 - rozkłady procentowe
 - zestawy wielokrotnych odpowiedzi
 - ważenie rozkładów (weights, questionr)
+
 d) w stronę raportu
 - eksport tabeli do Excela (XLConnect)
 - eksport tabeli do Worda (kable)
