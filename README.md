@@ -8,6 +8,13 @@ Część pierwsza: 9.00 - 10.30
 2. Przygotowanie danych do analizy
 a) ładowanie danych - jak to jest w przypadku danych sondażowych?
 - przykład z CSV; w dalszej części - ładowanie pliku SPSS (foreign)
+
+baza2<- read.spss("ESS7e02_1.sav", use.value.labels=T, to.data.frame = T,  add.undeclared.levels = "no", use.missings = TRUE, max.value.labels<-10)
+
+#etykiety ze zmiennych
+etykiety<-attr(baza_2, "variable.labels") 
+write.csv2(etykiety, "etykiety.csv")
+
 b) czyszczenie danych
 - co to są czyste dane w przypadku danych sondażowych?
 - nie tyle (tidyr), co ... - ćwiczenia z czyszczenia danych
