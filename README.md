@@ -26,16 +26,18 @@ c)szybka droga do wyników - tabele
 
 d) w stronę raportu
 - eksport tabeli do Excela (XLConnect)
-- eksport tabeli do Worda (kable)
+- eksport tabeli do Worda (kable) oraz tworzenie raportów w Notatniku
 
 Część druga: 11.00 - 12.30
 
 4) Dalsze analizy danych sondażowych
 a) podsumowania zmiennych ilościowych
+
 b) wizualizacja rozkładów w (ggplot2)
 - gramatyka ggplot2
 - podstawowe typy wykresów (również w podziale na grupy)
 - formatowanie wykresów
+
 c) co, gdy tabele są zbyt złożone? (MCA)
 - wstęp CA
 - modele MCA
