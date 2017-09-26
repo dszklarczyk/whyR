@@ -11,9 +11,9 @@ Część pierwsza: 9.00 - 10.30
 a) ładowanie danych - jak to jest w przypadku danych sondażowych?
 - przykład z CSV; w dalszej części - ładowanie pliku SPSS (foreign)
 
-b) czyszczenie danych
+b) czyszczenie danych, spójność danych
 - co to są czyste dane w przypadku danych sondażowych?
-- nie tyle (tidyr), co ... - ćwiczenia z czyszczenia danych
+- nie tyle (tidyr), co (editrules) (deducorrect) - ćwiczenia z czyszczenia danych
 - braki danych w pigułce
 - operacje na danych: zmienianie wartości zmiennych, tworzenie nowych zmiennych, podzbiorów itd.
 
