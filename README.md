@@ -13,9 +13,10 @@ a) ładowanie danych - jak to jest w przypadku danych sondażowych?
 
 b) czyszczenie danych, spójność danych
 - co to są czyste dane w przypadku danych sondażowych?
-- nie tyle (tidyr), co (editrules) (deducorrect) - ćwiczenia z czyszczenia danych
 - braki danych w pigułce
 - operacje na danych: zmienianie wartości zmiennych, tworzenie nowych zmiennych, podzbiorów itd.
+- nie tyle (tidyr), co (editrules) (deducorrect) - ćwiczenia z czyszczenia danych
+- decyzje w sprawie outliers
 
 3) Szybkie analizy w R 
 
